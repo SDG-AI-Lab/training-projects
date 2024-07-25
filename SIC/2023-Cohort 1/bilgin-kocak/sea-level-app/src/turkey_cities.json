@@ -1,0 +1,407 @@
+[
+    {
+        "City": "İstanbul",
+        "Population": "15.029.231",
+        "Area": 5460.769
+    },
+    {
+        "City": "Ankara",
+        "Population": "5.445.026",
+        "Area": 25669.371
+    },
+    {
+        "City": "İzmir",
+        "Population": "4.279.677",
+        "Area": 12181.365
+    },
+    {
+        "City": "Bursa",
+        "Population": "2.936.803",
+        "Area": 10807.275
+    },
+    {
+        "City": "Antalya",
+        "Population": "2.364.396",
+        "Area": 20353.806
+    },
+    {
+        "City": "Adana",
+        "Population": "2.216.475",
+        "Area": 13706.639
+    },
+    {
+        "City": "Konya",
+        "Population": "2.180.149",
+        "Area": 40757.772
+    },
+    {
+        "City": "Gaziantep",
+        "Population": "2.005.515",
+        "Area": 6797.154
+    },
+    {
+        "City": "Şanlıurfa",
+        "Population": "1.985.753",
+        "Area": 19213.813
+    },
+    {
+        "City": "Kocaeli",
+        "Population": "1.883.270",
+        "Area": 3435.452
+    },
+    {
+        "City": "Mersin",
+        "Population": "1.793.931",
+        "Area": 16113.924
+    },
+    {
+        "City": "Diyarbakır",
+        "Population": "1.699.901",
+        "Area": 15279.569
+    },
+    {
+        "City": "Hatay",
+        "Population": "1.575.226",
+        "Area": 5538.465
+    },
+    {
+        "City": "Manisa",
+        "Population": "1.413.041",
+        "Area": 13044.909
+    },
+    {
+        "City": "Kayseri",
+        "Population": "1.376.722",
+        "Area": 17202.67
+    },
+    {
+        "City": "Samsun",
+        "Population": "1.312.990",
+        "Area": 9655.029
+    },
+    {
+        "City": "Balıkesir",
+        "Population": "1.204.824",
+        "Area": 14604.96
+    },
+    {
+        "City": "Kahramanmaraş",
+        "Population": "1.127.623",
+        "Area": 14274.607
+    },
+    {
+        "City": "Van",
+        "Population": "1.106.891",
+        "Area": 20758.705
+    },
+    {
+        "City": "Aydın",
+        "Population": "1.080.839",
+        "Area": 8069.29
+    },
+    {
+        "City": "Denizli",
+        "Population": "1.018.735",
+        "Area": 11953.332
+    },
+    {
+        "City": "Tekirdağ",
+        "Population": "1.005.463",
+        "Area": 6205.92
+    },
+    {
+        "City": "Sakarya",
+        "Population": "990.214",
+        "Area": 4814.732
+    },
+    {
+        "City": "Muğla",
+        "Population": "938.751",
+        "Area": 12570.031
+    },
+    {
+        "City": "Eskişehir",
+        "Population": "860.620",
+        "Area": 14083.554
+    },
+    {
+        "City": "Mardin",
+        "Population": "809.719",
+        "Area": 8615.554
+    },
+    {
+        "City": "Malatya",
+        "Population": "786.676",
+        "Area": 12317.735
+    },
+    {
+        "City": "Trabzon",
+        "Population": "786.326",
+        "Area": 4648.725
+    },
+    {
+        "City": "Erzurum",
+        "Population": "760.476",
+        "Area": 24989.435
+    },
+    {
+        "City": "Ordu",
+        "Population": "742.341",
+        "Area": 5793.667
+    },
+    {
+        "City": "Afyonkarahisar",
+        "Population": "715.693",
+        "Area": 13992.051
+    },
+    {
+        "City": "Sivas",
+        "Population": "621.301",
+        "Area": 28622.21
+    },
+    {
+        "City": "Adıyaman",
+        "Population": "615.076",
+        "Area": 7444.203
+    },
+    {
+        "City": "Tokat",
+        "Population": "602.086",
+        "Area": 10046.737
+    },
+    {
+        "City": "Zonguldak",
+        "Population": "596.892",
+        "Area": 3176.471
+    },
+    {
+        "City": "Batman",
+        "Population": "585.252",
+        "Area": 4559.397
+    },
+    {
+        "City": "Elâzığ",
+        "Population": "583.671",
+        "Area": 9151.863
+    },
+    {
+        "City": "Kütahya",
+        "Population": "572.256",
+        "Area": 11813.527
+    },
+    {
+        "City": "Ağrı",
+        "Population": "536.285",
+        "Area": 11349.315
+    },
+    {
+        "City": "Çanakkale",
+        "Population": "530.417",
+        "Area": 9797.376
+    },
+    {
+        "City": "Çorum",
+        "Population": "528.422",
+        "Area": 12575.479
+    },
+    {
+        "City": "Osmaniye",
+        "Population": "527.724",
+        "Area": 3351.69
+    },
+    {
+        "City": "Şırnak",
+        "Population": "503.236",
+        "Area": 7245.686
+    },
+    {
+        "City": "Giresun",
+        "Population": "437.393",
+        "Area": 6894.082
+    },
+    {
+        "City": "Isparta",
+        "Population": "433.830",
+        "Area": 8681.925
+    },
+    {
+        "City": "Yozgat",
+        "Population": "418.650",
+        "Area": 13434.732
+    },
+    {
+        "City": "Edirne",
+        "Population": "406.855",
+        "Area": 6203.995
+    },
+    {
+        "City": "Muş",
+        "Population": "404.544",
+        "Area": 8732.361
+    },
+    {
+        "City": "Aksaray",
+        "Population": "402.404",
+        "Area": 7820.887
+    },
+    {
+        "City": "Düzce",
+        "Population": "377.610",
+        "Area": 2610.82
+    },
+    {
+        "City": "Kastamonu",
+        "Population": "372.373",
+        "Area": 13078.851
+    },
+    {
+        "City": "Uşak",
+        "Population": "364.971",
+        "Area": 5571.832
+    },
+    {
+        "City": "Kırklareli",
+        "Population": "356.050",
+        "Area": 6399.652
+    },
+    {
+        "City": "Niğde",
+        "Population": "352.727",
+        "Area": 7284.247
+    },
+    {
+        "City": "Bitlis",
+        "Population": "341.474",
+        "Area": 8293.317
+    },
+    {
+        "City": "Rize",
+        "Population": "331.041",
+        "Area": 3838.238
+    },
+    {
+        "City": "Amasya",
+        "Population": "329.888",
+        "Area": 5633.631
+    },
+    {
+        "City": "Siirt",
+        "Population": "324.394",
+        "Area": 5547.252
+    },
+    {
+        "City": "Bolu",
+        "Population": "303.184",
+        "Area": 8273.414
+    },
+    {
+        "City": "Nevşehir",
+        "Population": "292.365",
+        "Area": 5475.814
+    },
+    {
+        "City": "Kars",
+        "Population": "287.654",
+        "Area": 10283.897
+    },
+    {
+        "City": "Kırıkkale",
+        "Population": "278.749",
+        "Area": 4776.424
+    },
+    {
+        "City": "Hakkâri",
+        "Population": "275.761",
+        "Area": 7060.266
+    },
+    {
+        "City": "Bingöl",
+        "Population": "273.354",
+        "Area": 8267.389
+    },
+    {
+        "City": "Burdur",
+        "Population": "264.779",
+        "Area": 7337.618
+    },
+    {
+        "City": "Yalova",
+        "Population": "251.203",
+        "Area": 785.938
+    },
+    {
+        "City": "Karaman",
+        "Population": "246.672",
+        "Area": 8535.08
+    },
+    {
+        "City": "Karabük",
+        "Population": "244.453",
+        "Area": 4181.26
+    },
+    {
+        "City": "Kırşehir",
+        "Population": "234.529",
+        "Area": 6582.086
+    },
+    {
+        "City": "Erzincan",
+        "Population": "231.511",
+        "Area": 11699.055
+    },
+    {
+        "City": "Bilecik",
+        "Population": "221.693",
+        "Area": 4159.415
+    },
+    {
+        "City": "Sinop",
+        "Population": "207.427",
+        "Area": 5631.357
+    },
+    {
+        "City": "Iğdır",
+        "Population": "194.775",
+        "Area": 3574.138
+    },
+    {
+        "City": "Bartın",
+        "Population": "193.577",
+        "Area": 2390.081
+    },
+    {
+        "City": "Çankırı",
+        "Population": "186.074",
+        "Area": 7546.186
+    },
+    {
+        "City": "Gümüşhane",
+        "Population": "170.173",
+        "Area": 6754.452
+    },
+    {
+        "City": "Artvin",
+        "Population": "166.143",
+        "Area": 7370.807
+    },
+    {
+        "City": "Kilis",
+        "Population": "136.319",
+        "Area": 1399.069
+    },
+    {
+        "City": "Ardahan",
+        "Population": "97.096",
+        "Area": 4936.952
+    },
+    {
+        "City": "Tunceli",
+        "Population": "82.498",
+        "Area": 7614.363
+    },
+    {
+        "City": "Bayburt",
+        "Population": "80.417",
+        "Area": 3620.857
+    }
+]
